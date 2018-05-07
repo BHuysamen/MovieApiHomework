@@ -1,0 +1,14 @@
+C:\Users\Brendan\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.Service.deps.json
+C:\Users\Brendan\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.Service.runtimeconfig.json
+C:\Users\Brendan\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.Service.runtimeconfig.dev.json
+C:\Users\Brendan\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.Service.dll
+C:\Users\Brendan\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.Service.pdb
+C:\Users\Brendan\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.Service.csprojResolveAssemblyReference.cache
+C:\Users\Brendan\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.Service.csproj.CoreCompileInputs.cache
+C:\Users\Brendan\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.Service.AssemblyInfoInputs.cache
+C:\Users\Brendan\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.Service.AssemblyInfo.cs
+C:\Users\Brendan\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.Service.dll
+C:\Users\Brendan\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.Service.pdb
+C:\Users\Brendan\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.Domain.dll
+C:\Users\Brendan\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.Domain.pdb
+C:\Users\Brendan\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.Service.csproj.CopyComplete
