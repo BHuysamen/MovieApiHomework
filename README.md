@@ -7,3 +7,5 @@ Not entirely happy with how I'm dealing with the Top Fives in the domain layer s
 
 Test coverage is not complete :-(
 Started to get late and the choice was finish the API or stick strictly to TDD.
+
+Getting movies with filters is implemented as a post.  I wanted to pass filters in the body but the standard doesn't allow a body with a get, hence the post.  As for why, I felt like it would be more easily extensible without having a massively unweildly url.
